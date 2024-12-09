@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="431abf1d-ac7f-4c45-be1c-9fcb5552b4a6" name="Changes" comment="" />
+    <list default="true" id="431abf1d-ac7f-4c45-be1c-9fcb5552b4a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Prayer/PrayerTimes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/ui/card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/prayer-times.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/utils/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Events/EventsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Layout/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +30,9 @@
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2pzS2HN58FUUqDCBlaDXTcixuUx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,13 +41,14 @@
   "keyToString": {
     "Node.js.index.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/khaml/WebstormProjects/CCO/backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\khaml\\WebstormProjects\\CCO\\backend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -64,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733767201197</updated>
-      <workItem from="1733767202749" duration="1906000" />
+      <workItem from="1733767202749" duration="7744000" />
     </task>
     <servers />
   </component>
@@ -76,7 +92,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
